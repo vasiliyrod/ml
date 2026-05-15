@@ -1,0 +1,51 @@
+Company Names,Cars Names,Engines,CC/Battery Capacity,HorsePower,Total Speed,Performance(0 - 100 )KM/H,Cars Prices,Fuel Types,Seats,Torque
+FERRARI,SF90 STRADALE,V8,3990 cc,963 hp,340 km/h,2.5 sec,$1100000,plug in hyrbrid,2,800 Nm
+ROLLS ROYCE,PHANTOM,V12,6749 cc,563 hp,250 km/h,5.3 sec,$460000,Petrol,5,900 Nm
+Ford,KA+,1.2L Petrol,1200 cc,70-85 hp,165 km/h,10.5 sec,$12000-$15000,Petrol,5,100 Nm
+MERCEDES,GT 63 S,V8,3982 cc,630 hp,250 km/h,3.2 sec,$161000,Petrol,4,900 Nm
+AUDI,AUDI R8 Gt,V10,5204 cc,602 hp,320 km/h,3.6 sec,$253290,Petrol,2,560 Nm
+TESLA,Model S Plaid,Electric,100 kWh,1020 hp,322 km/h,2.1 sec,$108990,Electric,5,1420 Nm
+BMW,M5 Competition,V8,4395 cc,617 hp,305 km/h,3.3 sec,$110000,Petrol,5,750 Nm
+PORSCHE,911 Turbo S,Flat-6,3745 cc,640 hp,330 km/h,2.7 sec,$207000,Petrol,4,800 Nm
+LAMBORGHINI,Aventador SVJ,V12,6498 cc,759 hp,350 km/h,2.8 sec,$517000,Petrol,2,720 Nm
+BUGATTI,Chiron,W16,7993 cc,1479 hp,420 km/h,2.4 sec,$3000000,Petrol,2,1600 Nm
+TOYOTA,CAMRY,2.5L I4,2487 cc,203 hp,210 km/h,8.4 sec,$25000,Petrol,5,250 Nm
+HONDA,CIVIC Type R,2.0L Turbo,1996 cc,315 hp,272 km/h,5.4 sec,$43000,Petrol,4,400 Nm
+VOLKSWAGEN,Golf GTI,2.0L Turbo,1984 cc,241 hp,250 km/h,6.2 sec,$30000,Petrol,5,370 Nm
+HYUNDAI,IONIQ 5,Electric,72.6 kWh,320 hp,185 km/h,5.2 sec,$45000,Electric,5,605 Nm
+KIA,EV6,Electric,77.4 kWh,320 hp,185 km/h,5.2 sec,$48000,Electric,5,605 Nm
+NISSAN,GTR,3.8L V6 Twin Turbo,3799 cc,565 hp,315 km/h,2.9 sec,$113000,Petrol,4,637 Nm
+SUBARU,WRX STI,2.5L Boxer,2457 cc,310 hp,255 km/h,5.2 sec,$37000,Petrol,5,400 Nm
+MAZDA,MX-5 Miata,2.0L I4,1998 cc,181 hp,219 km/h,6.5 sec,$28000,Petrol,2,205 Nm
+JEEP,Wrangler Rubicon,3.6L V6,3604 cc,285 hp,180 km/h,7.5 sec,$45000,Petrol,5,350 Nm
+LAND ROVER,Range Rover Sport,3.0L I6 Turbo,2997 cc,395 hp,225 km/h,5.7 sec,$83000,Petrol,5,550 Nm
+BENTLEY,Continental GT,W12,5950 cc,626 hp,333 km/h,3.6 sec,$230000,Petrol,4,900 Nm
+ASTON MARTIN,DBS Superleggera,V12,5204 cc,715 hp,340 km/h,3.4 sec,$316000,Petrol,4,900 Nm
+MCLAREN,720S,V8 Twin Turbo,3994 cc,710 hp,341 km/h,2.9 sec,$310000,Petrol,2,770 Nm
+PAGANI,Huayra BC,V12 Twin Turbo,5980 cc,791 hp,380 km/h,2.8 sec,$2500000,Petrol,2,1100 Nm
+KOENIGSEGG,Jesko Absolut,V8 Twin Turbo,5065 cc,1600 hp,483 km/h,2.5 sec,$3000000,E85 Ethanol,2,1500 Nm
+RIMAC,Nevera,Electric,120 kWh,1914 hp,412 km/h,1.85 sec,$2400000,Electric,2,2360 Nm
+LOTUS,Evija,Electric,70 kWh,2011 hp,320 km/h,2.75 sec,$2100000,Electric,2,1700 Nm
+GMC,HUMMER EV,Electric,212 kWh,1000 hp,180 km/h,3.0 sec,$110000,Electric,5,15000 Nm
+RIVIAN,R1T,Electric,135 kWh,835 hp,201 km/h,3.0 sec,$73000,Electric,5,1231 Nm
+LUCID,Air Dream Edition,Electric,113 kWh,1111 hp,270 km/h,2.5 sec,$169000,Electric,5,1390 Nm
+CADILLAC,CT5-V Blackwing,V8 Supercharged,6162 cc,668 hp,322 km/h,3.7 sec,$84990,Petrol,5,893 Nm
+DODGE,Challenger Hellcat,V8 Supercharged,6166 cc,717 hp,315 km/h,3.6 sec,$71000,Petrol,5,881 Nm
+CHEVROLET,Camaro ZL1,V8 Supercharged,6162 cc,650 hp,315 km/h,3.5 sec,$64000,Petrol,4,881 Nm
+FORD,Mustang Shelby GT500,V8 Supercharged,5163 cc,760 hp,290 km/h,3.3 sec,$79000,Petrol,4,847 Nm
+ALFA ROMEO,Giulia Quadrifoglio,V6 Twin Turbo,2891 cc,505 hp,307 km/h,3.9 sec,$79000,Petrol,5,600 Nm
+MASERATI,MC20,V6 Twin Turbo,2992 cc,621 hp,325 km/h,2.9 sec,$212000,Petrol,2,730 Nm
+FERRARI,F8 Tributo,V8 Twin Turbo,3902 cc,710 hp,340 km/h,2.9 sec,$280000,Petrol,2,770 Nm
+LAMBORGHINI,Huracan EVO,V10,5204 cc,630 hp,325 km/h,2.9 sec,$261000,Petrol,2,600 Nm
+PORSCHE,Taycan Turbo S,Electric,93.4 kWh,750 hp,260 km/h,2.8 sec,$187600,Electric,4,1050 Nm
+AUDI,e-tron GT,Electric,93.4 kWh,637 hp,245 km/h,3.3 sec,$142000,Electric,4,830 Nm
+MERCEDES,EQS 580,Electric,107.8 kWh,516 hp,210 km/h,4.3 sec,$119000,Electric,5,855 Nm
+BMW,iX xDrive50,Electric,111.5 kWh,516 hp,200 km/h,4.6 sec,$83000,Electric,5,765 Nm
+VOLVO,XC90 Recharge,2.0L I4 Turbo + Electric,1969 cc,455 hp,180 km/h,5.4 sec,$68000,Plug-in Hybrid,7,709 Nm
+LEXUS,RX 450h,3.5L V6 Hybrid,3456 cc,308 hp,200 km/h,7.7 sec,$52000,Hybrid,5,335 Nm
+ACURA,NSX,V6 Twin Turbo + Electric,3493 cc,573 hp,307 km/h,2.9 sec,$157000,Hybrid,2,645 Nm
+INFINITI,Q60 Red Sport 400,V6 Twin Turbo,2997 cc,400 hp,250 km/h,4.5 sec,$56000,Petrol,4,475 Nm
+GENESIS,G70 3.3T,V6 Twin Turbo,3342 cc,365 hp,270 km/h,4.5 sec,$42000,Petrol,5,510 Nm
+PEUGEOT,508 Sport Engineered,1.6L Turbo + Electric,1598 cc,355 hp,250 km/h,5.2 sec,$65000,Plug-in Hybrid,5,520 Nm
+RENAULT,Megane RS,1.8L Turbo,1798 cc,300 hp,260 km/h,5.7 sec,$45000,Petrol,5,420 Nm
+CITROEN,C5 Aircross,1.6L Turbo,1598 cc,180 hp,210 km/h,8.9 sec,$32000,Petrol,5,250 Nm
